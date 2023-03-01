@@ -151,6 +151,7 @@ table.preparation tr{
     table.info td{ 
         font-size: 14Px;
         vertical-align: top;
+        color:red;
     }
     table.info th{ 
         font-size: 16Px;
